@@ -1,1 +1,0 @@
-Windows patch and diff programs incase you don't have them installed. Mac and Linux have these installed by default.
